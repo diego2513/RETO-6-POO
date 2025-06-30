@@ -12,7 +12,7 @@ Excepciones en el reto 1.4: Para esta ocasion use las mismas exepciones, debido 
  Excepciones reto 1.5: Para la ultiam aplicacion de la excepciones en el reto 1 use la misma funcion ".isalpha" para verificar que solo se introdujeran palabras o letras en la lista para encontrar anagramas
 
 
- Resumen: en cada uno de los codigos del reto 1 use "valueError" como excepcion en todas y adicional en la primera use la excepcion "ZeroDivisionError" prar evitar la divison entre 0, la verificacion mediante estas manera me ayudara a la eficacia de mis codigos y eviat validaciones manuales algo complejas.
+ Resumen: en cada uno de los codigos del reto 1 use "valueError" como excepcion en todas y adicional en la primera use la excepcion "ZeroDivisionError" prar evitar la divison entre 0, tambien en algunos casos use la funcion raise para saltar al except de una antes del break en caso de no tener la salida esperada; la verificacion mediante estas manera me ayudara a la eficacia de mis codigos y eviat validaciones manuales algo complejas.
 
 
 
